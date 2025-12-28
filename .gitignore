@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large files (use external storage)
+*.pdf
+*.zip
+*.tar.gz
+*.mp4
+*.avi
+*.mov
+
+# Model weights (too large for git)
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.pb
+
+# Data files (link externally)
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.hdf5
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
