@@ -1,0 +1,22 @@
+# Python dependencies for AI-Americana scripts
+
+# HTTP requests
+requests>=2.31.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web scraping (optional, for SBIR web scraping)
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+selenium>=4.15.0  # For JavaScript-rendered content
+
+# Data formats
+pyarrow>=14.0.0  # For parquet support
+openpyxl>=3.1.0  # For Excel support (if needed)
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+
