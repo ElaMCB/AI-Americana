@@ -1,23 +1,7 @@
-Creative Commons Attribution 4.0 International License (CC-BY-4.0)
-
-This license applies to:
-- All prose content (README, documentation, essays, narratives)
-- Data indexes and metadata
-- Policy documents and summaries
-
 MIT License
 
-This license applies to:
-- All code in /models-made-here
-- All code in /scripts
-- All code in /media/js
+Copyright (c) 2025 AI-Americana Contributors
 
----
-
-CC-BY-4.0 License Details:
-https://creativecommons.org/licenses/by/4.0/
-
-MIT License Details:
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -36,3 +20,20 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---
+
+Dual License Notice:
+
+This repository uses a dual-license approach:
+
+1. MIT License applies to:
+   - All code in /models-made-here
+   - All code in /scripts
+   - All code in /media/js
+
+2. Creative Commons Attribution 4.0 International (CC-BY-4.0) applies to:
+   - All prose content (README, documentation, essays, narratives)
+   - Data indexes and metadata
+   - Policy documents and summaries
+
+For CC-BY-4.0 license details, see: https://creativecommons.org/licenses/by/4.0/
