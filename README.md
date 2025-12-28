@@ -41,13 +41,13 @@ This project follows the "diary" convention: when adding a primary source, inclu
 
 No binary blobs > 50 MB please—link to GDrive / Zenodo instead.
 
-## 4. License
-
-CC-BY-4.0 for prose & data indexes; MIT for any code under /models-made-here, /scripts, /media/js.
-
-## 2025 update nuggets ready to log
+## 4. 2025 update nuggets ready to log
 
 - **Jan 2025**: newly finalized NIST "Generative AI Profile" (NIST AI-100-3) now explicitly references dual-use foundation-model thresholds at 10²⁶ FLOP—add to /policy/federal/nist-ai-profiles.md.
 - **DoD 2025 budget mark-up** adds $1.8 B line for "Joint All-Domain Command & Control AI middleware"—good funding JSON to pull when the SF-133s drop.
 - **California SB-1001** (AI transparency for ≥10 M users) passed Senate Appropriations 6-1; vote tally & amendment text live in /policy/state/CA/SB-1001_2025.md.
+
+## 5. License
+
+CC-BY-4.0 for prose & data indexes; MIT for any code under /models-made-here, /scripts, /media/js.
 
