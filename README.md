@@ -33,15 +33,7 @@ This project tracks those artifacts, turns them into timelines/maps/code, and ke
 /archive                 # temporary storage for documents pending categorization  
 ```
 
-## 3. First 90-day roadmap (turn each line into a GitHub issue)
-
-- [ ] Scrape & parse the 2024-25 U.S. AI executive-order implementation table (OMB M-24-10, DHS guidance, DoD 5000.09) into /policy/federal/executive-orders.md.
-- [ ] Build a tiny ETL that pulls weekly SBIR awards matching keyword "artificial intelligence" → JSON in /funding.
-- [ ] Fine-tune a 1-B-param model on 2020-24 U.S. Census ACS PUMS data; release weights + reproducible scripts in /models-made-here/census-gpt.
-- [ ] Publish a markdown essay: "From the CHIPS Act to Foundry rebates: how U.S. industrial policy is quietly rewriting AI cost curves."
-- [ ] Generate an interactive map (Observable / D3) of every federally funded AI R&D center; park source + geoJSON in /media.
-
-## 4. Contributing quickstart
+## 3. Contributing quickstart
 
 Fork & clone.
 
@@ -49,7 +41,7 @@ This project follows the "diary" convention: when adding a primary source, inclu
 
 No binary blobs > 50 MB please—link to GDrive / Zenodo instead.
 
-## 5. License
+## 4. License
 
 CC-BY-4.0 for prose & data indexes; MIT for any code under /models-made-here, /scripts, /media/js.
 
@@ -59,13 +51,3 @@ CC-BY-4.0 for prose & data indexes; MIT for any code under /models-made-here, /s
 - **DoD 2025 budget mark-up** adds $1.8 B line for "Joint All-Domain Command & Control AI middleware"—good funding JSON to pull when the SF-133s drop.
 - **California SB-1001** (AI transparency for ≥10 M users) passed Senate Appropriations 6-1; vote tally & amendment text live in /policy/state/CA/SB-1001_2025.md.
 
-## Next actions
-
-- [x] Create the folder skeleton above, paste the readme, commit.
-- [ ] Open Issue #1: "Scrape & parse 2024-25 EO implementation table."
-- [ ] Add a raw PDF of the latest NIST profile into /policy/federal so the repo has immediate, searchable substance.
-
-Additional resources available:
-- Python scraper template for SBIR awards: `/scripts/sbir_scraper.py`
-- Shell script to mirror FedReg AI docs: `/scripts/fedreg_scraper.sh` and `/scripts/fedreg_scraper.ps1`
-- ETL pipeline for funding data: `/scripts/funding_etl.py`
