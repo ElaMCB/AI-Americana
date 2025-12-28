@@ -1,5 +1,15 @@
 # AI-AMERICANA
 
+<!-- AI-Americana badge bar -->
+![Repo status](https://img.shields.io/badge/status-🌱%20WIP-yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/ElaMCB/AI-Americana?color=success)
+![GitHub repo size](https://img.shields.io/github/repo-size/ElaMCB/AI-Americana)
+![License](https://img.shields.io/github/license/ElaMCB/AI-Americana?color=blue)
+![Language](https://img.shields.io/github/languages/top/ElaMCB/AI-Americana?color=ff69b4)
+![US models](https://img.shields.io/badge/US%20models-🇺🇸-red)
+![open-source](https://img.shields.io/badge/open-source-✓-brightgreen)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
 A living field-guide to artificial-intelligence activity that is uniquely U.S.-shaped: policy, money, culture, code & myth.
 
 ## 1. Why this repo exists
